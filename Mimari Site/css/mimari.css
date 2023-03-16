@@ -1,0 +1,42 @@
+.img {
+    width: 600px;
+    height: 400px;
+}
+
+.h { 
+    font-size: 50px;
+}
+
+.p1 {
+    font-family:"Courier New";
+}
+
+h3,h2 {
+    color: rgb(117, 71, 116);
+}
+
+h1 {
+    color: rgb(117, 71, 116);
+}
+
+p {
+    color: rgb(121, 109, 31);
+}
+
+.p2 {
+    color: rgb(237, 100, 223);
+}
+
+.p3 {
+    color: red;
+}
+
+
+ul {
+    color:#8b8277;
+  }
+
+
+
+
+
